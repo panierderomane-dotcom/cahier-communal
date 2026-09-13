@@ -1,0 +1,13 @@
+{
+  "name": "Cahier communal",
+  "short_name": "Cahier communal",
+  "start_url": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "blason_monetier_icone_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
