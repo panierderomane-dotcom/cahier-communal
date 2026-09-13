@@ -5,7 +5,7 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "blason_monetier_icone_512.png",
+      "src": "blason_monetier_android_512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
